@@ -1,9 +1,9 @@
 /***************************************************************************//**
  * @file
- * @brief Application interface provided to main().
+ * @brief Light display for Adafruit is31fl3741 RGB LED Matrix.
  *******************************************************************************
  * # License
- * <b>Copyright 2021 Silicon Laboratories Inc. www.silabs.com</b>
+ * <b>Copyright 2023 Silicon Laboratories Inc. www.silabs.com</b>
  *******************************************************************************
  *
  * SPDX-License-Identifier: Zlib
