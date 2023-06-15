@@ -33,11 +33,19 @@
 // Includes
 #include "em_common.h"
 
+#ifdef __cplusplus
+extern "C" {
+#endif
+
 /**************************************************************************//**
  * Function prototypes
  *****************************************************************************/
 sl_status_t adafruit_light_init(void);
 void adafruit_light_set(bool new_state);
 bool adafruit_light_get(void);
+
+#ifdef __cplusplus
+}
+#endif
 
 #endif // ADAFRUIT_LIGHT_H
